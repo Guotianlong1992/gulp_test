@@ -1,0 +1,18 @@
+@import "../../assets/common/common.scss";
+page{
+  .container{
+    .title{
+      color: red;
+      background-color: $bgcColor;
+    }
+    .content{
+      .top{
+        color: blue;
+        padding: 10px;
+      }
+      .bottom{
+        color: green;
+      }
+    }
+  }
+}
